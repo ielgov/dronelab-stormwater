@@ -1,7 +1,7 @@
 # Drone Lab 4 Instructions
 
 
-## https://pages.github.ibm.com/dallas-gsc-gov/dronelab4/
+## https://gscgov.github.io/dronelab-stormwater/
 
 format (for usage): 
-https://pages.github.ibm.com/dallas-gsc-gov/dronelab4/?v=LABNAMEHERE
+https://gscgov.github.io/dronelab-stormwater/?v=LABNAMEHERE
